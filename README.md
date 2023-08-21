@@ -1,4 +1,4 @@
-### Hi there! and welcome to my GitHub profile👋
+
 ![](https://komarev.com/ghpvc/?username=RacimFethallah)
 <!--
 **RacimFethallah/RacimFethallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Software Engineer and Fullstack Developer with a strong passion for web-related technologies, committed to crafting functional solutions and bringing ideas to life through code, while focusing on excellence in small-scale projects.
-
-✉️ Ask me about anything, I'll be happy to help! </br>
-📧 My inbox is always open, Contact me.
 
 
 
@@ -44,7 +39,7 @@ Software Engineer and Fullstack Developer with a strong passion for web-related 
 - Software Engineer
 - Full-Stack Developer
 - Currently learning Web Development by Self
-- [my resume](https://read.cv/0xabdulkhalid)
+- [my resume](Fethallah Mohamed Racim CV.pdf)
 
 <br><br>
 
