@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Software Engineer and Fullstack Developer with a strong passion for web-related technologies, committed to crafting functional solutions and bringing ideas to life through code, while focusing on excellence in small-scale projects.
 
-✉️ Ask me about anything, I'll be happy to help!
+✉️ Ask me about anything, I'll be happy to help! </br>
 📧 My inbox is always open, Contact me.
 
 
