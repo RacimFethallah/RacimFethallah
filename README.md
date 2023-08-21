@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - Software Engineer
 - Full-Stack Developer
 - Currently learning Web Development by Self
-- [my resume](https://github.com/RacimFethallah/RacimFethallah/files/12396349/Fethallah.Mohamed.Racim.CV.pdf)
+- Know me better with [my resume](https://github.com/RacimFethallah/RacimFethallah/files/12396349/Fethallah.Mohamed.Racim.CV.pdf)
 
 <br><br>
 
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 
 <div>
   <samp>
-    <h2 align="center">✉️ you can reach me by: </h2>
+    <h2 align="center">📩 you can reach me by: </h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/fethallahracim/" target="blank"><img align="center"
