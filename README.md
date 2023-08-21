@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     <h2 align="center">📩 you can reach me by: </h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/fethallahracim/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/racimfethallah/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         height="30"/></a>
       <a href="mailto:fethallahracim@outlook.com" target="blank"><img align="center"
