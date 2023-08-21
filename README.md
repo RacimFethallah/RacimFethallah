@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=RacimFethallah)
+![](https://komarev.com/ghpvc/?username=RacimFethallah&color=003153&style=plastic&label=VIEWS)
 <!--
 **RacimFethallah/RacimFethallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
