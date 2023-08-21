@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=RacimFethallah&color=003153&style=plastic&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=RacimFethallah)
 <!--
 **RacimFethallah/RacimFethallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 Exploring the realms of code and creativity | 🌌 Crafting digital experiences one line at a time | 🎨 Passionate about design and innovation | ✨ Embracing challenges and learning with every commit | 🌟 Connecting with fellow coders across the globe | 📚 Constantly evolving and expanding my coding horizons | 🎯 Striving to turn ideas into reality through elegant solutions | ⚡️ Building the future through collaboration and innovation
+
+
