@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! and welcome to my GitHub profile👋
 ![](https://komarev.com/ghpvc/?username=RacimFethallah)
 <!--
 **RacimFethallah/RacimFethallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Exploring the realms of code and creativity | 🌌 Crafting digital experiences one line at a time | 🎨 Passionate about design and innovation | ✨ Embracing challenges and learning with every commit | 🌟 Connecting with fellow coders across the globe | 📚 Constantly evolving and expanding my coding horizons | 🎯 Striving to turn ideas into reality through elegant solutions | ⚡️ Building the future through collaboration and innovation
+Software Engineer and Fullstack Developer with a strong passion for web-related technologies, committed to crafting functional solutions and bringing ideas to life through code, while focusing on excellence in small-scale projects.
+
+✉️ Ask me about anything, I'll be happy to help!
+📧 My inbox is always open, Contact me.
 
 
