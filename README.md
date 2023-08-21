@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi , I'm Fethallah Mohamed Racim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+full-stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0071BF&width=435&lines=Self+taught+full-stack+developer;Computer+science+student;Exploring%2C+and+creating+in+the+digital+realm+%F0%9F%8C%90" alt="Typing SVG" /></a>
 </p>
 
 
@@ -52,10 +52,10 @@ Here are some ideas to get you started:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP%20-%777BB3.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Kotlin](https://img.shields.io/badge/Kotlin%20-%2314354C.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    ![Kotlin](https://img.shields.io/badge/Kotlin%20-%ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <br>   
     
@@ -67,11 +67,6 @@ Here are some ideas to get you started:
 
 <br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
 
 - **Softwares and Tools**:
 
@@ -122,12 +117,15 @@ Here are some ideas to get you started:
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="www.linkedin.com/in/fethallahracim" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/fethallahracim/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="FethallahRacim" height="30"/></a>
+        height="30"/></a>
       <a href="mailto:fethallahracim@outlook.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/outlook-EA4335.svg?style=for-the-badge&logo=outlook&logoColor=white"
-         alt="azzar" height="30"/></a>
+         src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+         height="30"/></a>
+	<a href="mailto:mohamedracim.fethallah@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         height="30"/></a>
     </p>
   <p align="center">
       <!-- <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
