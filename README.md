@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - Software Engineer
 - Full-Stack Developer
 - Currently learning Web Development by Self
-- [my resume]([Fethallah Mohamed Racim CV.pdf](https://github.com/RacimFethallah/RacimFethallah/blob/81d9814992b178db253169d4831d815efe8ce301/Fethallah%20Mohamed%20Racim%20CV.pdf))
+- [my resume](https://github.com/RacimFethallah/RacimFethallah/blob/81d9814992b178db253169d4831d815efe8ce301/Fethallah%20Mohamed%20Racim%20CV.pdf)
 
 <br><br>
 
