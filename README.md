@@ -1,8 +1,5 @@
-<p align=”center”>
+![Banner picture](https://github.com/RacimFethallah/RacimFethallah/assets/97336083/65b08e3e-d50d-4bf4-9bed-fd9f94c98233)
 
-<img width=”200" height=”200" src="https://github.com/RacimFethallah/RacimFethallah/blob/main/Banner%20picture.png" alt=”my banner”>
-
-</p>
 
 ![](https://komarev.com/ghpvc/?username=RacimFethallah)
 <!--
